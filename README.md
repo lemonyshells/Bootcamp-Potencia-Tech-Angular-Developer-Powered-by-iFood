@@ -9,9 +9,9 @@
     Powered by iFood</b>
 </h1>
 
-<p align="center">
-  Checando o Progresso:
-</p>
+<h2 align="center">
+  Progress Check:
+</h2>
 
 <h2><b>#1 Prepare-se Para a Jornada</b></h2>
 
