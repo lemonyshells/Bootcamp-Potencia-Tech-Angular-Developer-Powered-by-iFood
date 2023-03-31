@@ -5,10 +5,13 @@
 </p>
 
 <<p align="center">
-  <b><h1>Potência Tech Angular Developer - Powered by iFood</h1></b>
+  <b><h1>Potência Tech Angular Developer<br>
+    Powered by iFood</h1></b>
 </p>
 
-<center>Checando o Progresso:</center>
+<p align="center">
+  Checando o Progresso:
+</p>
 
 <h2><b>#1 Prepare-se Para a Jornada</b></h2>
 
