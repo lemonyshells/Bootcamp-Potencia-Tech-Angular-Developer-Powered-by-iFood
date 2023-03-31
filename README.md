@@ -1,6 +1,6 @@
 <center>Repositório criado com o objetivo de compilar o conteúdo apresentado no</center>
 
-<img src="https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png" alt="Potência Tech Angular Developer -  Powered by iFood" style="zoom:10%;" />
+<img src="https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png" alt="Potência Tech Angular Developer -  Powered by iFood" width = 100px;" />
 
 <center><b><h1>Potência Tech Angular Developer - Powered by iFood</h1></b></center>
 
