@@ -4,7 +4,7 @@
   <img src="https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png" alt="Potência Tech Angular Developer -  Powered by iFood" width="250" height="250">
 </p>
 
-<<p align="center">
+<p align="center">
   <b><h1>Potência Tech Angular Developer<br>
     Powered by iFood</h1></b>
 </p>
