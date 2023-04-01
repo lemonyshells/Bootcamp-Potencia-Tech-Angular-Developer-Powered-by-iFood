@@ -25,8 +25,8 @@
 <h2><b>#2 Primeiras Páginas Interativas com JavaScript</b></h2>
 
 - [x] Primeiros Passos com JavaScript
-- [ ] Conhecendo Funções JavaScript
-- [ ] Criando Objetos e Classes em JavaScript
+- [x] Conhecendo Funções JavaScript
+- [x] Criando Objetos e Classes em JavaScript
 - [ ] Arrays e Estruturas de Repetição em JavaScript
 - [ ] Importação e Exportação com JavaScript
 - [ ] Introdução ao Desenvolvimento Web com JavaScript
