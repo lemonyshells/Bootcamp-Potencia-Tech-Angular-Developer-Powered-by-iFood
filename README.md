@@ -27,25 +27,25 @@
 - [x] Primeiros Passos com JavaScript
 - [x] Conhecendo Funções JavaScript
 - [x] Criando Objetos e Classes em JavaScript
-- [ ] Arrays e Estruturas de Repetição em JavaScript
-- [ ] Importação e Exportação com JavaScript
-- [ ] Introdução ao Desenvolvimento Web com JavaScript
-- [ ] Criando um Projeto com HTML/CSS para Listagem de Pokémon
-- [ ] Dominando o Protocolo HTTP e Integrando com a PokeAPI
+- [x] Arrays e Estruturas de Repetição em JavaScript
+- [x] Importação e Exportação com JavaScript
+- [x] Introdução ao Desenvolvimento Web com JavaScript
+- [X] Criando um Projeto com HTML/CSS para Listagem de Pokémon
+- [x] Dominando o Protocolo HTTP e Integrando com a PokeAPI
 - [ ] Construindo uma Pokédex com JavaScript
 - [ ] Criando Seu Currículo Online com HTML e GitHub Pages
 
 <h2><b>#3 Exercite sua Lógica com Desafios de Código em JavaScript</b></h2>
 
-- [ ] Desafio com JavaScript: Tempo Estimado de Entrega
-- [ ] Desafio com JavaScript: Calcular o Preço Final de um Pedido
-- [ ] Desafio com JavaScript: Ganhe uma Sobremesa Especial!
-- [ ] Desafio com JavaScript: Identificando Pedidos Veganos
-- [ ] Desafio com JavaScript: Gerenciamento de Pedidos de Comida Online
+- [X] Desafio com JavaScript: Tempo Estimado de Entrega
+- [X] Desafio com JavaScript: Calcular o Preço Final de um Pedido
+- [X] Desafio com JavaScript: Ganhe uma Sobremesa Especial!
+- [X] Desafio com JavaScript: Identificando Pedidos Veganos
+- [X] Desafio com JavaScript: Gerenciamento de Pedidos de Comida Online
 
 <h2><b>#4 Ganhando Produtividade com a Plataforma Angular</b></h2>
 
-- [ ] Trabalhando com Web Components no Front-End
+- [X] Trabalhando com Web Components no Front-End
 - [ ] TypeScript para Angular
 - [ ] Introdução ao Ecossistema Angular
 - [ ] Trabalhando com Componentes Angular
@@ -64,7 +64,7 @@
 
 <h2><b>#6 Trabalhando com Rotas e Serviços no Angular</b></h2>
 
-- [ ]  Trabalhando com Rotas no Angular
+- [ ] Trabalhando com Rotas no Angular
 - [ ] Trabalhando com Services no Angular
 - [ ] Criando um Clone do BuzzFeed com Angular
 
